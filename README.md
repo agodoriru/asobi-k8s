@@ -1,5 +1,5 @@
 # asobi-k8s
-スペルを間違えない
+スペルを間違えない *kubernetes*
 
 良い発音
 
@@ -7,7 +7,8 @@
 
 ## refs
 
-- 公式: https://kubernetes.io/ja/docs/home/
+- 公式JP: https://kubernetes.io/ja/docs/home/
+- 公式EN: https://kubernetes.io/
 
 - cybozu-san
   - Docker: https://speakerdeck.com/cybozuinsideout/docker2020
