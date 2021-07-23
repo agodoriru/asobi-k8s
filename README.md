@@ -14,6 +14,7 @@
   - Docker: https://speakerdeck.com/cybozuinsideout/docker2020
   - introduction to k8s: https://cybozu.github.io/introduction-to-kubernetes/
   - 元: https://blog.cybozu.io/entry/2021/07/20/100000
+- 道場: https://cstoku.dev/tags/kubernetes/
 
 ### network
 - 公式: https://kubernetes.io/ja/docs/concepts/cluster-administration/networking/
